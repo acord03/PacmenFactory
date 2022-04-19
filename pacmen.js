@@ -1,7 +1,7 @@
 let pos = 0;
 const pacArray = [
-  ['./PacMan1.png', './PacMan2.png'],
-  ['./PacMan3.png', './PacMan4.png'],
+  ['https://github.com/acord03/PacmenFactory/blob/main/PacMan1.png', 'https://github.com/acord03/PacmenFactory/blob/main/PacMan2.png'],
+  ['https://github.com/acord03/PacmenFactory/blob/main/PacMan3.png', 'https://github.com/acord03/PacmenFactory/blob/main/PacMan4.png'],
 ];
 let direction = 0;
 const pacMen = []; // This array holds all the pacmen
